@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Calvin Taw
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNjYWNlMjE4NjI2NDc4YzhhZGU2ZjcyYTBlZDg5NmE4YmE4OWQyNyZjdD1n/3ohc1jGq4xF6g5p6cA/giphy.gif" width="200" alt="Coding gif" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNja3Z0dnYyOWF3cDBkaWRrN2ZsZXUxZDFlZmxoYWljNmJjdHcxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" alt="Coding gif" />
 
 ## 🙋‍♂️ About Me
 
