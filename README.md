@@ -26,6 +26,4 @@
 
 ---
 
-<!-- 🌐 Social links, if any -->
-
 🙏 Thanks for visiting.
