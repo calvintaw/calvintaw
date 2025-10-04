@@ -24,7 +24,6 @@
 
 ## 🚀 Featured Projects
 
-[![NextChat](https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=discord_clone)](https://github.com/calvintaw/discord_clone)
 [![Lenscape](https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=lenscape)](https://github.com/calvintaw/Lenscape)
 
 ---
