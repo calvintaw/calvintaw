@@ -9,7 +9,7 @@
 - 🔨 Always building and learning
 - 💼 Open to dev opportunities
 - ⚡ Turning ideas into working projects quickly
-<br>
+  <br>
 
 ## 🛠️ Skills
 
@@ -20,24 +20,29 @@
 - 🐍 Python (beginner)
 - 🗄️ PostgreSQL (via Supabase & postgres.js)
 - 🧮 SQL
-<br>
+  <br>
 
 ## 🚀 Featured Projects
 
 <a href="https://github.com/calvintaw/discord_clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=discord_clone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=discord_clone&theme=aura" />
 </a>
+
+<br>
+
 <a href="https://github.com/calvintaw/lenscape">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=lenscape&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=lenscape&theme=aura" />
 </a>
 
 <br>
 
 ## 📈 Random Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=calvintaw&theme=radical)](https://git.io/streak-stats)
-![Calvintaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvintaw&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=calvintaw&theme=aura)](https://git.io/streak-stats)
+
 <br>
 
-🙏 Thanks for visiting.
+![Calvintaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvintaw&show_icons=true&theme=aura)
+<br>
 
+### 🙏 Thanks for visiting.
