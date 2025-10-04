@@ -29,5 +29,10 @@
 
 ---
 
+## 📈 Random Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=calvintaw&theme=radical)](https://git.io/streak-stats)
+![Calvintaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvintaw&show_icons=true&theme=radical)
+
 🙏 Thanks for visiting.
 
