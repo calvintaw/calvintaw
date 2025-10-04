@@ -22,17 +22,26 @@ function Page() {
 		{
 			title: "NextChat",
 			desc: "NextChat - A real time chat app with discord like UI and functionalities. ",
-			link: "https://github.com/calvintaw/discord_clone",
+			link: "https://next-chat-discord-clone.vercel.app/",
+			github: "https://github.com/calvintaw/discord_clone",
 		},
 		{
 			title: "Lenscape",
 			desc: "Lenscape – React app for discovering, searching, and previewing photos and videos via the Pexels API. ",
-			link: "https://photo-mcb6t8z01-ambitiouscalvins-projects.vercel.app/",
+			link: "https://lenscape.vercel.app/",
+			github: "https://github.com/calvintaw/Lenscape/",
+		},
+		{
+			title: "Lenscape V2",
+			desc: "Modernized version of Lenscape with improved styling (not as feature-complete as V1).",
+			link: "https://photo-app-rose.vercel.app/",
+			github: "https://github.com/calvintaw/photo_app",
 		},
 		{
 			title: "Portfolio Site",
-			desc: "Minimalistic, modern portfolio built with Tailwind CSS",
+			desc: "Minimalistic, modern portfolio built with Vite, React & Tailwind CSS",
 			link: "#",
+			github: "https://github.com/calvintaw/calvintaw/",
 		},
 	];
 
@@ -62,23 +71,38 @@ function Page() {
 
 			{/* Projects */}
 			<section id="projects" className="w-full max-w-6xl mt-20">
-				<h2 className="text-4xl font-semibold text-center text-indigo-400 mb-10">🚀 Featured Projects</h2>
+				<h2 className="text-2xl md:text-4xl font-semibold text-center text-indigo-400 mb-10">🚀 Featured Projects</h2>
 				<div className="flex flex-wrap justify-center gap-8">
 					{projects.map((proj) => (
 						<a
 							key={proj.title}
 							href={proj.link}
 							target="_blank"
-							className="w-100 p-6 bg-gray-900/80 backdrop-blur-md rounded-2xl border border-gray-800 hover:border-indigo-400 hover:shadow-lg hover:shadow-indigo-500/20 transition-all no-underline"
+							className="w-100 p-6 bg-gray-900/80 backdrop-blur-md rounded-2xl border border-gray-800 hover:border-indigo-400 hover:shadow-lg hover:shadow-indigo-500/20 transition-all no-underline
+                group
+                min-h-45
+              "
 						>
 							<h3
-								className="text-2xl font-semibold mb-2 flex items-center gap-1.5 
+								className="text-2xl font-semibold mb-4 flex items-center gap-1.5 
 							bg-clip-text text-transparent 
 bg-linear-to-r from-green-500 via-emerald-500 to-teal-500
 							"
 							>
 								<GiStarShuriken className="text-indigo-400" />
 								{proj.title}
+
+								<button
+									onClick={(e) => {
+										e.preventDefault();
+										e.stopPropagation();
+										window.open(proj.github, "_blank");
+									}}
+									className="
+                ml-auto p-1 cursor-pointer rounded-full bg-background"
+								>
+									<FaGithub className="text-white" />
+								</button>
 							</h3>
 							<p className="text-gray-400">{proj.desc}</p>
 						</a>
