@@ -28,8 +28,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=discord_clone&theme=aura" />
 </a>
 
-<br>
-
 <a href="https://github.com/calvintaw/lenscape">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=lenscape&theme=aura" />
 </a>
