@@ -13,9 +13,8 @@
 
 ## 🛠️ Skills
 
-- ⚡ Next.js, Typescript, React (AI assists with types)
+- ⚡ Next.js, Typescript, React
 - 🎨 TailwindCSS, CSS, HTML
-- 🤖 ChatGPT & AI workflows
 - 🌀 Framer Motion (beginner)
 - 🐍 Python (beginner)
 - 🗄️ PostgreSQL (via Supabase & postgres.js)
