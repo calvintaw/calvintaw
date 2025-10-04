@@ -9,6 +9,7 @@
 - 🔨 Always building and learning
 - 💼 Open to dev opportunities
 - ⚡ Turning ideas into working projects quickly
+<br>
 
 ## 🛠️ Skills
 
@@ -19,20 +20,24 @@
 - 🐍 Python (beginner)
 - 🗄️ PostgreSQL (via Supabase & postgres.js)
 - 🧮 SQL
-
----
+<br>
 
 ## 🚀 Featured Projects
 
-[![NextChat](https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=discord_clone)](https://github.com/calvintaw/discord_clone)
-[![Lenscape](https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=lenscape)](https://github.com/calvintaw/Lenscape)
+<a href="https://github.com/calvintaw/discord_clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=discord_clone&theme=radical" />
+</a>
+<a href="https://github.com/calvintaw/lenscape">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvintaw&repo=lenscape&theme=radical" />
+</a>
 
----
+<br>
 
 ## 📈 Random Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=calvintaw&theme=radical)](https://git.io/streak-stats)
 ![Calvintaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvintaw&show_icons=true&theme=radical)
+<br>
 
 🙏 Thanks for visiting.
 
