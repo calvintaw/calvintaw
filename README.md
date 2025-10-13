@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Calvin Taw
+# 👋 Hi, I’m Calvin
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+%26+Developer&font=Fira+Code&size=24)](https://git.io/typing-svg)
 
